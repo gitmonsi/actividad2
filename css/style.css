@@ -89,7 +89,7 @@ section{
 aside{
 	width: 280px;
 	background: gray;
-	height: 650px;
+	height: 700px;
 	float: left;
 	margin-left: 20px;
 	margin-top: 10px;
@@ -98,8 +98,8 @@ aside{
 
 footer{
 	width: 1000px;
-	height: 70px;
-	background: orange;
+/*	height: 150px; */
+	background: black;
 	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
@@ -136,6 +136,10 @@ p{
 	color: brown;
 	font-size: 20px;
 	text-align: center;
+}
+
+.info_footer{
+	color: white;
 }
 
 .ancho_menu_home{width: 900px;}
